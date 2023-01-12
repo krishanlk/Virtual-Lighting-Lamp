@@ -1,0 +1,22 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-image: url(/Img/room-2421596.jpg);
+    background-size: 140%;
+    background-repeat: no-repeat;
+}
+
+input{
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+    border-radius: 10ex;
+    border-style: dotted;
+    padding: 0.8vh;
+
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: right;
+    font-size: small;
+    padding: 40px 10px 10px 10px;
+}
